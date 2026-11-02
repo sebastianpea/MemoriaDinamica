@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoriaDinamica", "MemoriaDinamica\MemoriaDinamica.csproj", "{6A76B74B-F69F-43C8-B087-460E9B013EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A76B74B-F69F-43C8-B087-460E9B013EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A76B74B-F69F-43C8-B087-460E9B013EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A76B74B-F69F-43C8-B087-460E9B013EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A76B74B-F69F-43C8-B087-460E9B013EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BC047D-0AD4-4241-A553-462D74B3A83F}
+	EndGlobalSection
+EndGlobal
